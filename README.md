@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Bajpai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![thoughtworks-gif_dribbble](https://github.com/vrun545/vrun545/assets/63057049/a7b5a4de-9932-4f6c-9832-29870128d2cd)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrun545&label=Profile%20views&color=0e75b6&style=flat" alt="vrun545" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrun545" alt="vrun545" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vrun545](https://github.com/vrun545)
 
