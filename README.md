@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Bajpai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 ![thoughtworks-gif_dribbble](https://github.com/vrun545/vrun545/assets/63057049/a7b5a4de-9932-4f6c-9832-29870128d2cd)
 
