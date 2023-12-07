@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Bajpai</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-![thoughtworks-gif_dribbble](https://github.com/vrun545/vrun545/assets/63057049/a7b5a4de-9932-4f6c-9832-29870128d2cd)
+![programmer](https://github.com/vrun545/vrun545/assets/63057049/9cffd3ea-a0c3-40b1-a01b-89a4b8f0e246)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vrun545](https://github.com/vrun545)
 
