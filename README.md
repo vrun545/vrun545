@@ -3,11 +3,11 @@
 
 ![programmer](https://github.com/vrun545/vrun545/assets/63057049/9cffd3ea-a0c3-40b1-a01b-89a4b8f0e246)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vrun545](https://github.com/vrun545)
+- 👨‍💻 All of My Projects are Available at [https://github.com/vrun545](https://github.com/vrun545)
 
 - 📫 How to reach me **vrun545@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/6492f1f5137340914ff58381](https://www.overleaf.com/project/6492f1f5137340914ff58381)
+- 📄 Know about my experiences [[https://www.overleaf.com/project/6492f1f5137340914ff58381](https://www.overleaf.com/project/6492f1f5137340914ff58381)].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
