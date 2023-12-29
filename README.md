@@ -7,8 +7,8 @@
 - 👨‍💻 All of My Projects are Available at [https://github.com/vrun545](https://github.com/vrun545)
 
 - 📫 How to reach me **vrun545@gmail.com**
-
-- 📄 Know about my experiences [[https://www.overleaf.com/project/6492f1f5137340914ff58381](https://www.overleaf.com/project/6492f1f5137340914ff58381)].
+ 
+- 📄 Know about my experiences [https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/](https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
