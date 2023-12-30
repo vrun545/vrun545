@@ -12,7 +12,7 @@
  
 - 📄 Know about my experiences [https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/](https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/)
 
-<h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=100></h2>
+<h2 align="left">Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=100></h2>
 
 <p align="left">
 <a href="https://in.linkedin.com/in/varun-bajpai-a9a7aa1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrun545" height="30" width="40" /></a>
