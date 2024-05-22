@@ -43,4 +43,4 @@
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrun545&show_icons=true&locale=en&layout=compact" alt="vun545" /></p>
-<p><img align="center" src="https://gthub-readme-streak-stats.herokuapp.com/?user=vrun545&" alt="vrun545" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrun545&" alt="vrun545" /></p>
