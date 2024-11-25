@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Bajpai</h1>
-<h3 align="center">A Passionate Developer from INDIA</h3>
+<h3 align="center">A Passionate Automation QA Engineer from INDIA</h3>
 <p align="left">
 
 
@@ -8,11 +8,18 @@
 
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50>  About Me </h2>
 
-- 👨‍💻 All of My Projects are Available at [https://github.com/vrun545](https://github.com/vrun545)
+- 👨‍💻 I specialize in writing **reliable automation scripts**, **designing test frameworks**, and ensuring **quality in every phase** of the SDLC.
 
-- 📫 How to reach me **vrun545@gmail.com**
- 
-- 📄 Know about my experiences [https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/](https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/)
+- 🔎 Skilled in **Manual Testing**, **Automation Testing**, and **API Testing**, with a knack for uncovering edge cases and improving processes.
+
+- 🛠️ Tools and Frameworks: Selenium, Appium, TestNG, JUnit, Postman, RestAssured, Jenkins, Cucumber, and Pytest.
+
+- 🌐 All of My Projects and Contributions are Available at [My GitHub](https://github.com/vrun545).
+
+- 📫 How to reach me: **vrun545@gmail.com**
+
+- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/varun-bajpai-a9a7aa1b2/)
+
 
 <h2 align="left">Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=100></h2>
 
